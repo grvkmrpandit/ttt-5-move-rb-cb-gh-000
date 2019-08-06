@@ -9,6 +9,6 @@ x=gets.strip
 def input_to_index(board,x)
   board[x]='X'
 
-  
+
 
 # code your input_to_index and move method here!
